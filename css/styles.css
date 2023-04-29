@@ -270,6 +270,21 @@ img {
   letter-spacing: 0.02em;
   color: var(--slate);
 }
+/* customers */
+.customers-section {
+}
+.customers-container {
+}
+.customer-title {
+}
+.customers-list {
+}
+.customers-list-item {
+}
+.customer-link {
+}
+.customer-logo {
+}
 /* footer */
 .footer {
   background-color: var(--navy-blue);
