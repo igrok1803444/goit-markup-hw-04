@@ -328,7 +328,7 @@ img {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -422,7 +422,7 @@ img {
   height: 100%;
   background-color: var(--iris);
   border-radius: 50%;
-  color: var(--white);
+  color: var(--cloud);
 }
 .footer-social-link:hover,
 .footer-social-link:focus {
